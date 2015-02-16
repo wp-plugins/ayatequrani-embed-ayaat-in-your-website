@@ -1,7 +1,7 @@
 === AyateQurani ===
 Contributors: nitroxis
 Donate link: http://nitroxis.com/donate/
-Tags: wordpress, plugin, quran, islamic, ayat
+Tags: wordpress, plugin, quran, islamic, ayat, quranic verse, verse
 Requires at least: 3.4
 Tested up to: 4.1
 Stable tag: 1.0
