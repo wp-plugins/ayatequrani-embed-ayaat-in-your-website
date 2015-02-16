@@ -1,0 +1,40 @@
+# Copyright (C) 2015 Ayat e Qurani
+# This file is distributed under the same license as the Ayat e Qurani package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Ayat e Qurani 1.0\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/support/plugin/ayatequrani-embed-"
+"ayaat-in-your-website\n"
+"POT-Creation-Date: 2015-02-16 07:09:27+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/plugin.class.php:299 inc/plugin.class.php:304
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Ayat e Qurani"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://nitroxis.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Include a single or multiple ayats in your content with an easy shortcode e."
+"g. <strong>[quran ayat=\"112\" surah=\"2\"]</strong>"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Nitroxis"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://hammad.nitroxis.com/"
+msgstr ""
