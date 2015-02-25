@@ -1,7 +1,7 @@
 <?php
 /*
  * Plugin Name: Ayat e Qurani
- * Version: 1.0
+ * Version: 1.0.2
  * Plugin URI: http://nitroxis.com/
  * Description: Include a single or multiple ayats in your content with an easy shortcode e.g. <strong>[quran ayat="112" surah="2"]</strong>
  * Author: Nitroxis
@@ -20,7 +20,7 @@
 if ( ! defined( 'ABSPATH' ) ) exit;
 
 $token = "ayatequrani_ntx";
-$version = "1.0";
+$version = "1.0.2";
 // Load plugin class files
 require_once('inc/plugin.class.php');
 // load the p

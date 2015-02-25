@@ -4,7 +4,7 @@ Donate link: http://nitroxis.com/donate/
 Tags: wordpress, plugin, quran, islamic, ayat, quranic verse, verse
 Requires at least: 3.4
 Tested up to: 4.1
-Stable tag: 1.0
+Stable tag: 1.0.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -111,10 +111,17 @@ You can use this plugin by a simple shortcode
 * 2015-02-12
 * Initial release
 
+= 1.0.2 =
+* 2015-02-25
+* Remove the error being output if the parameters are wrong in the shortcode
+
 == Upgrade Notice ==
 
 = 1.0 =
 Initial Release
+
+= 1.0.2 =
+Fix Bug
 
 == Screenshots ==
 
