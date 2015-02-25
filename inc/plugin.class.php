@@ -183,7 +183,7 @@ class NTX_plugin {
         }
 
         $result = $wpdb->get_results($sql);
-        return isset($result[0]) ? $result : array(0=>"n/a");
+        return isset($result[0]) ? $result : array(array("n/a"),array("n/a"));
     }
     
     public function enqueue_styles ()
